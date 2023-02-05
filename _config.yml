@@ -82,21 +82,21 @@ analytics:
 author:
   name             : "NIU Ben"
   avatar           : "profile.png"
-  bio              : "Professor and Deputy Dean at College of Management, Institute of Hospital Management, and Greater Bay Area International Institute for Innovation, Shenzhen University"
-  location         : "Shenzhen, Guangdong, China"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  bio              : "Professor and Deputy Dean at Shenzhen University"
+  location         : "Shenzhen, China"
+  employer         : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=DQwGipAAAAAJ&hl=en&oi=ao"
+  email            : "drniuben@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Ben-Niu-6"
+  uri              : "https://ma.szu.edu.cn/jsfc/niuben_080021.htm"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
