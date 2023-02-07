@@ -21,8 +21,7 @@ Dr Ben Niu is a Professor and Doctoral Supervisor of Shenzhen University, and an
 
 Research Interest
 ======
-Data Science, Intelligent Optimization and Scheduling, Swarm Intelligence
-Machine Learning, Feature Engineering, Decision Support System 
+Data Science, Intelligent Optimization and Scheduling, Swarm Intelligence, Machine Learning, Feature Engineering, Decision Support System 
 
 My Team
 ======
