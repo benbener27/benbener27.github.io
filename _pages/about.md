@@ -21,11 +21,11 @@ Dr Ben Niu is a Professor and Doctoral Supervisor of Shenzhen University, and an
 
 Research Interest
 ======
-Data science, intelligent optimization and scheduling, swarm intelligence 
-Machine learning, feature engineering, decision support system 
+Data Science, Intelligent Optimization and Scheduling, Swarm Intelligence
+Machine Learning, Feature Engineering, Decision Support System 
 
 My Team
 ======
 牛奔教授目前为广东省智能管理与交叉创新团队负责人，该团队目前有教师15名（教授4人、副教授5人，助理教授6人），博士后8名，博士生10名（外籍博士4名），硕士生22名。创新团队下设六个课题组：智能运营与服务管理、信息智能与优化决策、数据智能与深度挖掘、数字化创新与创业管理、大健康与智慧医疗、管理信息系统与决策。团队目前主持国家自然科学基金项目15项、教育部人文社科基金项目3项、广东省自然科学基金项目12项、博士后基金7项，发表论文300余篇（包括《Nature》2篇），出版中英文著作10余部，授权专利或软著20余项。
 
-长年招聘上述方向助理教授、研究员、博士后、博士、硕士，有兴趣者请将CV发送至： [drniuben@gmail.com](drniuben@gmail.com) 或 [nb@szu.edu.cn](nb@szu.edu.cn) 。
+We look for Master and Doctoral students, Postdoctoral and Research Fellows, and Assistant Professors in the above directions all the year round. If you are interested, please send your CV to [drniuben@gmail.com](drniuben@gmail.com) or [nb@szu.edu.cn](nb@szu.edu.cn)
