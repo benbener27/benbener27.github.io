@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr Ben Niu is a Professor and Doctoral Supervisor of Shenzhen University, and an External Doctoral Supervisor of the Hong Kong Polytechnic University and the University of Macau. He received his Doctoral degree from the Chinese Academy of Sciences, and later became a postdoctoral fellow at the Chinese Academy of Sciences and the Hong Kong Polytechnic University. He spent several years as a visiting scholar at the University of Edinburgh (UK), Arizona State University (USA), and Victoria University of Wellington (New Zealand). He is now the Deputy Dean of College of Management and Institute of Hospital Management, and the Head of doctoral programs in Management Science and Engineering (first-level discipline) at Shenzhen University.
+I am a Professor and Doctoral Supervisor of Shenzhen University, and an External Doctoral Supervisor of the Hong Kong Polytechnic University and the University of Macau. I received my Doctoral degree from the Chinese Academy of Sciences, and later became a postdoctoral fellow at the Chinese Academy of Sciences and the Hong Kong Polytechnic University. I spent several years as a visiting scholar at the University of Edinburgh (UK), Arizona State University (USA), and Victoria University of Wellington (New Zealand). I am now the Deputy Dean of College of Management and Institute of Hospital Management, and the Head of doctoral programs in Management Science and Engineering (first-level discipline) at Shenzhen University.
 
 入选美国斯坦福大学全球前2%顶尖科学家榜单
 深圳大学首届荔园优青、深圳大学优秀学者
@@ -19,7 +19,7 @@ Dr Ben Niu is a Professor and Doctoral Supervisor of Shenzhen University, and an
 
 近五年指导博士后10位（5名已出站），博士生10位（3位已经毕业），其中境外博士生5位；指导硕士生8位，其中5位获全奖或CSC资助出国攻博，2位在国内读博。
 
-Research Interest
+Research Interests
 ======
 Data Science, Intelligent Optimization and Scheduling, Swarm Intelligence, Machine Learning, Feature Engineering, Decision Support System 
 
