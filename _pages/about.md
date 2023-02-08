@@ -25,6 +25,16 @@ Data Science, Intelligent Optimization and Scheduling, Swarm Intelligence, Machi
 
 My Team
 ======
-牛奔教授目前为广东省智能管理与交叉创新团队负责人，该团队目前有教师15名（教授4人、副教授5人，助理教授6人），博士后8名，博士生10名（外籍博士4名），硕士生22名。创新团队下设六个课题组：智能运营与服务管理、信息智能与优化决策、数据智能与深度挖掘、数字化创新与创业管理、大健康与智慧医疗、管理信息系统与决策。团队目前主持国家自然科学基金项目15项、教育部人文社科基金项目3项、广东省自然科学基金项目12项、博士后基金7项，发表论文300余篇（包括《Nature》2篇），出版中英文著作10余部，授权专利或软著20余项。
+Prof Niu Ben is now the leader of the Guangdong-provincial Research Team---Intelligent Management and Cross-Innovation Team. At present, the team has 15 faculty members (4 Professors, 5 Associate Professors, and 6 Assistant Professors), 8 Postdoctoral Fellows, 10 Doctoral students (including 4 foreign students), and 22 Master students.
+
+The team has hosted 15 projects funded by the National Natural Science Foundation of China, 3 projects funded by the Humanities and Social Science Foundation of Ministry of Education, 12 projects funded by Natural Science Foundation of Guangdong Province, and 7 projects funded by China Postdoctoral Science Foundation. The teams published 300+ papers (including 2 Nature papers), 10+ books, 20+ patents and software copyrights.
+
+The team consists of 6 research groups:
+1. Smart Operation and Service Management
+1. Information Intelligence and Decision Optimization
+1. Data Intelligence and Deep Learning
+1. Digital Innovation and Entrepreneurship Management
+1. General Health and Smart Medical Care
+1. Management Information System and Decision-making
 
 We look for Master and Doctoral students, Postdoctoral and Research Fellows, and Assistant Professors in the above directions all the year round. If you are interested, please send your CV to [drniuben@gmail.com](drniuben@gmail.com) or [nb@szu.edu.cn](nb@szu.edu.cn)
