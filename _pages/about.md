@@ -25,9 +25,9 @@ Data Science, Intelligent Optimization and Scheduling, Swarm Intelligence, Machi
 
 My Team
 ======
-Prof Niu Ben is now the leader of the Guangdong-provincial Research Team---Intelligent Management and Cross-Innovation Team. At present, the team has 15 faculty members (4 Professors, 5 Associate Professors, and 6 Assistant Professors), 8 Postdoctoral Fellows, 10 Doctoral students (including 4 foreign students), and 22 Master students.
+I am now the leader of a provincial-level research team of Guangdong Province---Intelligent Management and Cross-Innovation Team. At present, we has 15 faculty members (4 Professors, 5 Associate Professors, and 6 Assistant Professors), 8 Postdoctoral Fellows, 10 Doctoral students (including 4 foreign students), and 22 Master students.
 
-The team has hosted 15 national-level projects funded by the National Natural Science Foundation of China, 3 ministerial-level projects funded by the Humanities and Social Science Foundation of Ministry of Education, 12 provincial-level projects funded by Natural Science Foundation of Guangdong Province, and 7 projects funded by China Postdoctoral Science Foundation. The teams published 300+ papers (including 2 Nature papers), 10+ books, 20+ patents and software copyrights.
+We has hosted 15 national-level projects funded by the National Natural Science Foundation of China, 3 ministerial-level projects funded by the Humanities and Social Science Foundation of Ministry of Education, 12 provincial-level projects funded by Natural Science Foundation of Guangdong Province, and 7 projects funded by China Postdoctoral Science Foundation. We published 300+ papers (2 on Nature), 10+ books, 20+ patents and software copyrights.
 
 The team consists of 6 research groups:
 1. Smart Operation and Service Management
