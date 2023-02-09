@@ -37,4 +37,4 @@ The team consists of 6 research groups:
 1. General Health and Smart Medical Care
 1. Management Information System and Decision-making
 
-We look for Master and Doctoral students, Postdoctoral and Research Fellows, and Assistant Professors in the above directions all the year round. If you are interested, please send your CV to [drniuben@gmail.com](drniuben@gmail.com) or [nb@szu.edu.cn](nb@szu.edu.cn)
+We look for Assistant Professors, Research and Postdoctoral Fellows, Doctoral and Master students in the above directions all the year round. If you are interested, please send your CV to [drniuben@gmail.com](drniuben@gmail.com) or [nb@szu.edu.cn](nb@szu.edu.cn)
