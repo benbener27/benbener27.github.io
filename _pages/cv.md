@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Shenzhen University (Shenzhen, Guangdong, P.R. China)
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* March 2008 - Jan 2011, Assistant Professor, College of Management
+* Jan 2011 - Dec 2015, Associate Professor, College of Management
+* Dec 2015 - Nov 2021, Head, Department of Management Science, College of Management
+* Dec 2015 - Present, Professor & Doctoral Supervisor, College of Management
+* April 2021 - Present, Deputy Dean, Institute of Hospital Management
+* Sept 2021 - Present, Deputy Dean, Greater Bay Area International Institute for Innovation
+* Nov 2021 - Present, Deputy Dean, College of Management
+*hi
 
 Work experience
 ======
