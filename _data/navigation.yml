@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Experience"
-    url: /cv/
+    url: /experience/
 
   - title: "Publication"
-    url: /publications/
+    url: /publication/
 
   - title: "Project"
-    url: /year-archive/
+    url: /project/
 
   - title: "Award"
-    url: /markdown/
+    url: /award/
 
   - title: "Activity"
-    url: /talks/    
+    url: /activity/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Team"
-    url: /portfolio/
+    url: /team/
