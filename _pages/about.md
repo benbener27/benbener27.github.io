@@ -15,7 +15,7 @@ I am a Professor and Doctoral Supervisor of Shenzhen University, and an External
 
 近年来，获得多项学术荣誉，如2012年入选国家第二批“香江学者”、广东省高等学校“千百十人才”省级培养对象，2013年入选深圳市“高层次专业人才”，2014年度入选深圳“海外高层次人才孔雀计划”，2015入选广东省高校“优秀青年教师”，2016年入选“广东省珠江学者”，2018年入选教育部工业工程专业 “教指委委员”，2021年入选英国皇家工程院与中国工程院“中英创新领军人才”，2021年入选“南粤优秀教师”，2020-2022年连续三年入选斯坦福“全球前2%科学家”年度科学影响力排行榜。近年来主持国家自然科学基金项目的6项（合作主持1项），广东省教育厅重大项目1项，广东省普通高校重点领域专项1项，广东省自然基金3项，中国博士后科学基金项目的2项（特别资助1项），其它省市级项目10余项。
 
-长期从事人工智能、大数据分析与处理、信息系统与信息管理、运筹与优化、物流与供应链管理、智慧医疗等多学科交叉领域的科研工作，发表相关学术论文200余篇，其中SCI/SSCI论文79篇（ESI热点、高被引论文3篇）、EI收录99篇，出版专著9部，申请专利及软件著作权9个。获得过国际群体智能大会（ICSI）最佳论文奖、国际智能计算大会（ICIC）最佳论文奖、中国管理学年会优秀论文奖及其它各类学术奖项20项，指导学生获得2项互联网+全国赛银奖。
+I have been engaged in multi-disciplinary research in Artificial Intelligence, Big Data Analysis and Processing, Information System and Information Management, Operation Research and Optimization, Logistics and Supply Chain Management, Smart Medical Care, and other fields for a long time. I published 200+ relevant academic papers, including 79 SCI/SSCI papers (3 ESI Hot Papers, Highly Cited Papers), 99 EI papers, 9 monographs, and 9 patents and software copyrights. I have won 20 academic awards, including the Best Paper Award of International Conference on Swarm Intelligence (ICSI), the Best Paper Award of International Conference on Intelligent Computing (ICIC), and the Excellent Paper Award of Chinese Academy of Management Annual Conference, and have coached students to win 2 Silver Awards on “Internet+” National Competition.
 
 In the past five years, I have supervised 10 Postdoctoral Fellows (5 have completed), 10 Doctoral students (3 have graduated, 5 Foreign students), and 8 Master students (5 for PhD overseas with full scholarships or China Scholarship Council Grants, 2 for PhD in China).
 
