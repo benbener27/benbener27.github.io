@@ -32,10 +32,10 @@ redirect_from:
   * Jul 2015-Apr 2016: Associate Research Fellow
   * Feb 2015-Jun 2015: Assistant Research Fellow
   * Feb 2013-Feb 2015: Hong Kong Scholar(Postdoctoral Fellow)
-* _**Arizona State University (USA)**_
+* _**Arizona State University (United States)**_
   * May 2017-May 2019: Affiliated Professor, ASU-Mayo Clinic Imaging Informatics Laboratory
   * May 2016-May 2017: Visiting Scholar
-* _**University of Edinburgh (UK)**_
+* _**University of Edinburgh (United Kingdom)**_
   * Jul 2018-Aug 2018: Visiting Scholar
 * _**Chinese Academy of Sciences (China)**_
   * Nov 2012-Nov 2015: Postdoctoral Fellow
