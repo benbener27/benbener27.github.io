@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Shenzhen University (Shenzhen, Guangdong, China)
-======
+##Shenzhen University (Shenzhen, Guangdong, China)
 * College of Management
   * Nov 2021-Present: Associate Dean
   * Dec 2015-Present: Professor & Doctoral Supervisor
@@ -21,15 +20,3 @@ Shenzhen University (Shenzhen, Guangdong, China)
   * Sep 2021-Present: Associate Dean
 *  Institution of Hospital Management
   * Apr 2021-Present: Associate Dean
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
