@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Shenzhen University (Shenzhen, Guangdong, China)
+## Shenzhen University (Shenzhen, Guangdong, China)
 
 * College of Management
   * Nov 2021-Present: Associate Dean
