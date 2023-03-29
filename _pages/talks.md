@@ -11,8 +11,8 @@ redirect_from:
 
 ## National Natural Science Foundation of China (NSFC)
 
-| Period | Title | Type | Status | Role | Code |
-| ------ | ----- | ---- | ------ | ---- | ---- |
+| Period | Title | Type | Role | Code |
+| ------ | ----- | ---- | ---- | ---- |
 | 2020.01-2023.12 | Study on Evolutionary Bacterial Colony Optimization Oriented by Outsourcing Mode Aircraft Base Maintenance Scheduling | Under Research | PI | 71971143 |
 | 2016.01-2019.12 | The Joint Decision-Making of Terminal Layout Design, Berth Allocation & Quay Crane Assignment Based on Complex Adaptive Bacterial Colony Optimization | Completed (Excellence) | PI | 71571120 |
 | 2015.01-2018.12 | High-dimensional Multi-objective Algorithm Based on Biological Networks and its Application on Distributed Scheduling | Completed | Co-PI | 71471158 |
