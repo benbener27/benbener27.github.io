@@ -11,7 +11,7 @@ redirect_from:
 
 ## Shenzhen University
 * _**College of Management**_
-  * Nov 2021-Present:Associate Dean
+  * Nov 2021-Present: Associate Dean
   * Dec 2015-Present: Professor & Doctoral Supervisor
   * Aug 2016-Sep 2019: Pearl River Scholar
   * Dec 2015-Nov 2021: Department Head of Management Science
