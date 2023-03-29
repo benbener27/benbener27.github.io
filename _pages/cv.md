@@ -25,23 +25,23 @@ redirect_from:
   * Apr 2021-Present: Associate Dean
 
 ## Fellowships and Visiting Scholars
-* _**University of Macau**_
+* _**University of Macau (Macau, China)**_
   * Mar 2018-Present: Doctoral Supervisor
-* _**The Hong Kong Polytechnic University**_
+* _**The Hong Kong Polytechnic University (Hong Kong, China)**_
   * Sep 2016-Mar 2020: Doctoral Supervisor
   * Jul 2015-Apr 2016: Associate Research Fellow
   * Feb 2015-Jun 2015: Assistant Research Fellow
   * Feb 2013-Feb 2015: Hong Kong Scholar(Postdoctoral Fellow)
-* _**Arizona State University**_
+* _**Arizona State University (USA)**_
   * May 2017-May 2019: Affiliated Professor, ASU-Mayo Clinic Imaging Informatics Laboratory
   * May 2016-May 2017: Visiting Scholar
-* _**University of Edinburgh**_
+* _**University of Edinburgh (UK)**_
   * Jul 2018-Aug 2018: Visiting Scholar
-* _**Chinese Academy of Sciences**_
+* _**Chinese Academy of Sciences (China)**_
   * Nov 2012-Nov 2015: Postdoctoral Fellow
   * Feb 2004-Jan 2008: Doctoral Student
-* _**Victoria University of Wellington**_
+* _**Victoria University of Wellington (New Zealand)**_
   * Jan 2013-Feb 2013: Visiting Scholar
-* _**University of Hong Kong**_
+* _**University of Hong Kong (Hong Kong, China)**_
   * Apr 2011-Apr 2012: Research Assistant
  
