@@ -22,7 +22,7 @@ redirect_from:
 
 ## Provincial and Municipal Government Sponsored Research
 
-| Period | Title | Type | Status | Role | Code |
+| Period | Title | Sponsor | Status | Role | Code |
 | ------ | ----- | ---- | ------ | ---- | ---- |
 | 2023.01-2025.12 | Evaluation of the Effect of Policy Tool Combination in Public Health Crisis Governance: From the Perspective of Causal Machine Learning | Guangdong Planning Office of Philosophy and Social Science | Ongoing | PI | GD22CGL35 |
 | 2022.01-2024.12 | Surveillance, Early Warning and Response Service System for Emerging Major Infectious Diseases Based on Big Data | Department of Education of Guangdong Province | Ongoing | PI | 2022ZDZX2054 |
