@@ -28,10 +28,10 @@ We have hosted 15 national-level projects funded by the National Natural Science
 
 The team consists of 6 research groups:
 1. Smart Operation and Service Management
-1. Information Intelligence and Decision Optimization
-1. Data Intelligence and Deep Learning
-1. Digital Innovation and Entrepreneurship Management
-1. General Health and Smart Medical Care
-1. Management Information System and Decision-making
+2. Information Intelligence and Decision Optimization
+3. Data Intelligence and Deep Learning
+4. Digital Innovation and Entrepreneurship Management
+5. General Health and Smart Medical Care
+6. Management Information System and Decision-making
 
 _**We are looking for Assistant Professors, Research and Postdoctoral Fellows, Doctoral and Master students in the above research directions.**_ If you are interested, please send your CV to [drniuben@gmail.com](drniuben@gmail.com).
