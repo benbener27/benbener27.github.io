@@ -24,7 +24,7 @@ redirect_from:
 * _**Institution of Hospital Management**_
   * 2021.04-Present: Associate Dean
 
-## Fellowships and Visiting Scholars
+## Fellows and Visiting Scholars
 * _**University of Macau (Macau, China)**_
   * 2018.03-Present: Doctoral Supervisor
 * _**The Hong Kong Polytechnic University (Hong Kong, China)**_
