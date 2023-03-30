@@ -23,7 +23,7 @@ redirect_from:
 ## Provincial and Municipal Government Sponsored Research
 
 
-## Educational Innovation Scheme
+## Educational Innovation Schemes
 
 | Period | Title | Sponsor | Status | Role | Code |
 | ------ | ----- | ------- | ------ | ---- | ---- |
