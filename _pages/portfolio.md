@@ -11,24 +11,23 @@ redirect_from:
 
 ## Keynote Speeches in International Conferences and Academic Organizations
 
-[1]2022年11月20日第五届智能制造系统工程学术会议特邀学术报告
-[2]2022年12月15日 第三十届全国计算机信息管理学术研讨会特邀报告 
-[3]2022年11月24日沈阳理工大学特邀学术报告
-[1]2022年11月20日智能制造系统工程特邀学术报告
-[2]2022年11月8日湖南工商大学前沿交叉学院特邀学术报告
-[3]2022年10月20日杭州电子科技大学管理学院特邀学术报告
-[4]2022年7月29日安徽工程大学经济与管理学院特邀学术报告
-[5]2022年6月10日“数字化转型与智慧管理”第一届青年跨学科论坛特邀报告
-[6]2022年4月16-17日全球华人工业工程大会（CSIE2022）大会特邀报告
-[7]2021年12月4日第七届深圳管理创新对话论坛（SMIDF 2021）特邀报告
-[8]2021年11月27日安徽工程大学机械工程学院特邀学术报告
-[9]2021年11月26日南京理工大学管理学院特邀学术报告
-[10]2021年10月28-29日第三届数据分析与知识发现研讨会（DAKD2021）特邀报告
-[11]2020年12月1日“经济特区智慧治理”学术沙龙特邀报告
-[12]2020年11月20-22日全球华人工业工程大会（CSIE2020）特邀报告
-[13]2019年7月26-30日第十届国际群体智能大会（ICSI2019）特邀报告
-[14]2019年7月26-30日第四届国际数据挖掘和大数据会议（DMBD 2019）特邀报告
-[15]2018年12月8-10日第二届计算机科学与人工智能国际会议（CSAI 2018）特邀报告
+1. Invited speech for 30th National Computer Information Management Conference (CIMC2022), Dec 2022.
+2. Invited speech for Shenyang Ligong University, Nov 2022.
+3. Invited speech for 5th Intelligent Manufacturing System Engineering Conference, Nov 2022.
+4. Invited speech for School of Advanced Interdisciplinary Studies, Hunan University Of Technology and Business, Nov 2022.
+5. Invited speech for School of Management, Hangzhou Dianzi University, Oct 2022.
+6. Invited speech for School of Economics and Management, Anhui Polytechnic University, Jul 2022.
+7. Invited speech for 1st Youth Interdisciplinary Forum on "Digital Transformation and Smart Management", Jun 2022.
+8. Invited speech for 2022 Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2022), Apr 2022.
+9. Invited speech for 7th Shenzhen Management Innovation Dialogue Forum (SMIDF2021), Dec 2021.
+10. Invited speech for School of Mechanical Engineering, Anhui Polytechnic University, Nov 2021.
+11. Invited speech for School of Economics and Management, Nanjing University of Science and Technology, Nov 2021.
+12. Invited speech for 3rd Data Analysis and Knowledge Discovery Conference (DAKD2021), Oct 2021.
+13. Invited speech for 2020 "Smart Governance of Special Economic Zones" Academic Salon, Dec 2020.
+14. Invited speech for 2020 Annual International Conference for Chinese Scholars in Industrial Engineering (CSIE2020), Nov 2020.
+15. Invited speech for 10th International Conference on Swarm Intelligence (ICSI2019), Jul 2019.
+16. Invited speech for 4th International Conference on Data Mining and Big Data (DMBD 2019), Jul 2019.
+17. Invited speech for 2nd International Conference on Computer Science and Artificial Intelligence(CSAI 2018), Dec 2018.
 
 ## Session Chairs in International Conferences
 
