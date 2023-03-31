@@ -9,8 +9,8 @@ author_profile: true
 
 ## Monograph
 
-1. **Niu B.** Geng S. Wang H. _Introduction to Data Science, Economic Press China_ (ISBN 9787513668330), February 2022.
-2. **Niu B.** Wang H. Geng S. _A New Bacterial Feature Selection Algorithm in Theory and Practice_, Science Press (ISBN 978-7-03-067603-0), May 2022.
+1. **Niu B.** Wang H. Geng S. _A New Bacterial Feature Selection Algorithm in Theory and Practice_, Science Press (ISBN 978-7-03-067603-0), May 2022.
+2. **Niu B.** Geng S. Wang H. _Introduction to Data Science, Economic Press China_ (ISBN 9787513668330), February 2022.
 3. Tan Y., Shi Y.H., **Niu B.** _Advances in Swarm Intelligence_, Springer (ISBN 978-3-031-09725-6), July 2022.
 4. Tan Y., Shi Y.H., **Niu B.** _Advances in Swarm Intelligence_, Springer (ISBN 978-3-030-26368-3), July 2022.
 5. Tan Y., Shi Y.H., **Niu B.** _Advances in Swarm Intelligence_, Springer (ISBN 978-3-030-26368-3), July 2019.
@@ -38,10 +38,10 @@ author_profile: true
 2. 2022.02, Patent Certificate for “_Trigger Control Methods, Devices and Related Equipments Based on Multiplicative Measurement Uncertainty_” (202110577787.8)(Inventor: Zhou T.W., Yue G.H., **Niu B.**, Lu J.R., Duan L.Y., Li H.C., Liu C.)
 3. 2021.06, Software Copyright for “_Medical Consultation Service Management Software Based on Multimodal Data_” (2021SR1508279)(Inventor: **Niu B.**, Geng S., He X.F., Liang G.M., He Y.Q.; Copyright Owner: Shenzhen University)
 4. 2021.06, Software Copyright for “_Dynamic Quality Management Software Based on Integrated Learning Algorithm_” (2021SR1508282)(Inventor: Geng S., **Niu B.**, Duan L.Z., Guo Z., He Y.Q.; Copyright Owner: Shenzhen University)
-5. 2019.10, Software Copyright for “_Medical Image Feature Selection Software Based on Brainstorm Algorithm_” (2019SR1049095)(Inventor: **Niu B.**, Wang H., Yang X.S., Zuo L.L., Chai Y.J.; Copyright Owner: Shenzhen University and Shenzhen Liangdian Technology Ltd.)
-6. 2019.11, Software Copyright for “_Intelligent Scheduling System V1.0 Based on IP Database_” (2019SR1119130)(Inventor: Xie T., **Niu B.**; Copyright Owner: Youyou Technology Ltd. and Shenzhen University )
-7. 2018.07, Patent Certificate for “_Swimsuit Preventing Drowning_” (ZL 2017 2 1828381.8) (Inventor: **Niu B.**, Liu J., Xie T., Huang Y., Yi W.J.; Copyright Owner: Shenzhen University)
+5. 2019.11, Software Copyright for “_Intelligent Scheduling System V1.0 Based on IP Database_” (2019SR1119130)(Inventor: Xie T., **Niu B.**; Copyright Owner: Youyou Technology Ltd. and Shenzhen University )
+6. 2019.11, Software Copyright for “_HLS Streaming Intelligent Cache System V1.0_” (2019SR1119684)(Inventor: Xie T., **Niu B.**; Copyright Owner: Youyou Technology Ltd. and Shenzhen University)
+7. 2019.10, Software Copyright for “_Medical Image Feature Selection Software Based on Brainstorm Algorithm_” (2019SR1049095)(Inventor: **Niu B.**, Wang H., Yang X.S., Zuo L.L., Chai Y.J.; Copyright Owner: Shenzhen University and Shenzhen Liangdian Technology Ltd.)
 8. 2018.08, Patent Certificate for “_Device for Drowning Prevention_” (ZL 2017 2 1825582.2) (Inventor: **Niu B.**, Liu J., Xie T., Zhang F.F., Ou S.Y.; Copyright Owner: Shenzhen University)
-9. 2019.11, Software Copyright for “_HLS Streaming Intelligent Cache System V1.0_” (2019SR1119684)(Inventor: Xie T., **Niu B.**; Copyright Owner: Youyou Technology Ltd. and Shenzhen University)
+9. 2018.07, Patent Certificate for “_Swimsuit Preventing Drowning_” (ZL 2017 2 1828381.8) (Inventor: **Niu B.**, Liu J., Xie T., Huang Y., Yi W.J.; Copyright Owner: Shenzhen University)
 10. 2014.11, Software Copyright for “_Robotic Arm Positioning Software Based on Stereoscopic Vision_” (2014SR182289)(Inventor: Gao H.W., **Niu B.**, Yu Y.)
 11. 2010.09, Software Copyright for “_WEB Management Platform for RFID Middleware_” (2010SR045298)(Inventor: **Niu B.**, Li L.)
