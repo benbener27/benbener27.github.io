@@ -58,6 +58,6 @@ redirect_from:
   * 2022-2023: Guest Editor, Special Issue “Information Theory, Probability and Statistics”, Entropy (ISSN 1099-4300).
   * 2022-Present: Special Communications Specialist, Frontiers of Science and Technology of Engineering Management.
   * 2022: Chair, Conference on Intelligent Manufacturing Systems Engineering.
-  * 2009-2018, PC Member, Committee of International Conference on Intelligent Computing (ICIC).
-  * 2010, 2016-2018: PC Member, Committee of International Conference on Swarm Intelligent(ICSI).
   * 2016-Present: Editorial Board Member, International Journal of Swarm Intelligence Research.
+  * 2010, 2016-2018: PC Member, Committee of International Conference on Swarm Intelligent(ICSI).
+  * 2009-2018, PC Member, Committee of International Conference on Intelligent Computing (ICIC).
