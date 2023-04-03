@@ -44,4 +44,20 @@ redirect_from:
   * 2013.01-2013.02: Visiting Scholar
 * _**University of Hong Kong (Hong Kong, China)**_
   * 2011.04-2012.04: Research Assistant
- 
+
+## Memberships
+* _**Professional Organizations**_
+  * 2013: Member, IEEE.
+  * 2016: Member, INFORMS.
+  * 2018: Member, Teaching Steering Committee of Industrial Engineering Discipline, Ministry of Education of China.
+  * 2019: Member, Branch of Logistics Engineering, Guangdong Society of Mechanical Engineering.
+  * 2021: Member, Member, 2nd Committee of Shenzhen Health Information Association.
+  * 2022: Member, Committee of Intelligent Manufacturing Systems Engineering, Systems Engineering Society of China.
+  * 2022: Member, 9th Committee of Information Technology, China Society for Science and Technology Information.
+* _**Journals and Conferences**_
+  * 2016: Editorial Board Member, International Journal of Swarm Intelligence Research.
+  * 2010, 2016-2018: PC Member, Committee of International Conference on Swarm Intelligent(ICSI).
+  * 2009-2018, PC Member, Committee of International Conference on Intelligent Computing (ICIC).
+  * 2022: Chair, Conference on Intelligent Manufacturing Systems Engineering.
+  * 2022: Special Communications Specialist, Frontiers of Science and Technology of Engineering Management.
+  * 2022-2023: Guest Editor, Special Issue “Information Theory, Probability and Statistics”, Entropy (ISSN 1099-4300).
