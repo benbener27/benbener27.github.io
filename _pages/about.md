@@ -20,6 +20,11 @@ Research Interests
 ======
 Data Science, Intelligent Optimization and Scheduling, Swarm Intelligence, Machine Learning, Feature Engineering, Decision Support System 
 
+Main Courses
+======
+1. **Undergraduate Courses:** Introduction to Data Science, Management Information System, Systems Engineering, Bionic Management, Swarm Intelligence.
+2. **Postgraduate Courses:** Intelligent Management, Optimization Theory and Methods, Optimization and Decision-Making, Optimization Calculations and Tools, Big Data Thinking and Management Decision-Making, Dialectics of Nature.
+
 My Team
 ======
 I am now the leader of a provincial-level research team of Guangdong Province---Intelligent Management and Cross-Innovation Team. At present, we have 15 faculty members (4 Professors, 5 Associate Professors, and 6 Assistant Professors), 8 Postdoctoral Fellows, 10 Doctoral students (including 4 foreign students), and 22 Master students.
