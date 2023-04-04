@@ -50,7 +50,7 @@ redirect_from:
 * _**Professional Organizations**_
   * 2022: Member, 9th Committee of Information Technology, China Society for Science and Technology Information.
   * 2022-Present: Member, Committee of Intelligent Manufacturing Systems Engineering, Systems Engineering Society of China.
-  * 2021: Member, Member, 2nd Committee of Shenzhen Health Information Association.
+  * 2021: Member, 2nd Committee of Shenzhen Health Information Association.
   * 2019-Present: Member, Branch of Logistics Engineering, Guangdong Society of Mechanical Engineering.
   * 2018-Present: Member, Teaching Steering Committee of Industrial Engineering Discipline, Ministry of Education of China.
   * 2016-Present: Member, INFORMS.
