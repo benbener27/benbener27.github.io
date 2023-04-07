@@ -18,7 +18,7 @@ author_profile: true
 * 2016.03, _**"Thousand-Hundred-Ten Young Talents"**_ Award of Guangdong Province
 * 2016.01, _**"Excellent Young Teachers of Guangdong Universities"**_ Award of Guangdong Province
 * 2015.09, _**"Young Teacher Model"**_ Award of Shenzhen
-* 2012.08, _**Hong Kong Scholars**_ _(one of the 64 nationwide)_
+* 2012.08, _**Hong Kong Scholars**_ _(one of the 64 nationwide, 2nd batch)_
 
 ## Achievement
 * 2022.12, _**"Best Paper Award"**_ in 4th International Conference on Machine Learning for Cyber Security(ML4CS)
@@ -34,13 +34,14 @@ author_profile: true
 * 2016.06, _**"Special Session Best Paper Award"**_ in 7th International Conference on Swarm Intelligence(ICSI)
 
 ## Student Competition
-* 2022.11, Instructor of _**a Bronze Award**_ of the "Internet+" National Competition
-* 2022.07, Instructor of _**a Silver and a Bronze Awards**_ of the 13th "Challenge Cup" Guangdong University Student Entrepreneurship Plan Competition
+* 2023.01, Instructor of _**the Second Prize**_  of China Mathematical Contest in Modeling
+* 2022.11, Instructor of _**a Bronze Award**_ of the "Internet+" National Competition (Rui Yi Manufacturing)
+* 2022.07, Instructor of _**a Silver and a Bronze Awards**_ of the 13th "Challenge Cup" Guangdong University Student Entrepreneurship Plan Competition (Swarm Cloud, iShow)
 * 2022.01, Instructor of _**the Second Prize**_ of Asia-Pacific Mathematical Contest in Modeling
 * 2021.12, Instructor of _**the Third Prize**_ of China Mathematical Contest in Modeling
-* 2021.10, Instructor of _**a Silver and a Bronze Awards**_ of the "Internet+" National Competition
-* 2020.12, Instructor of _**two Silver and a Bronze Awards**_ of the "Internet+" National Competition
-* 2020.08, Instructor of _**the Second Prize**_ in the Guangdong Division of the National University Student E-Commerce "Innovation, Creativity and Entrepreneurship" Competition
-* 2019.07, 2018.07, Instructor of _**the First Prize and "Best Instructor Award"**_ in the Guangdong Division of the National University Student E-Commerce "Innovation, Creativity and Entrepreneurship" Competition
+* 2021.10, Instructor of _**a Silver and two Bronze Awards**_ of the "Internet+" National Competition (Smart Elderly Care, SI Doctor, S-Power)
+* 2020.12, Instructor of _**two Silver and a Bronze Awards**_ of the "Internet+" National Competition (Mo Dou Xin Cai, CDNBye, Swarm AI)
+* 2020.08, Instructor of _**the Second Prize**_ in the Guangdong Division of the National University Student E-Commerce "Innovation, Creativity and Entrepreneurship" Competition (Bang Bang Gou)
+* 2019.07, 2018.07, Instructor of _**the First Prize and "Best Instructor Award"**_ in the Guangdong Division of the National University Student E-Commerce "Innovation, Creativity and Entrepreneurship" Competition (Awaken Force, Intelligent Management Maker Tribe)
 * 2018.12, Instructor of _**the Second Prize and "Outstanding Innovation and Entrepreneurship Project Award"**_ of "Shenchuang Cup" International University Student Innovation and Entrepreneurship Competition Finals
 * 2018.09, Instructor of _**the Second Prize**_ of "AIIA Cup" Artificial Intelligence Tournament-China Unicom & Tencent Joint Competition
