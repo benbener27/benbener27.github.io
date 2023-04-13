@@ -26,8 +26,8 @@ author_profile: true
 ## Representative Papers
 
 1. **Niu B.**, Xue B.W., Zhou T.W. Aircraft Base Maintenance Personnel Scheduling Based on Interactive Bacterial Foraging Optimization Algorithm. _Journal of Industrial Engineering and Engineering Management_. 2023,37(5):247-258. (in Chinese)
-2. **Niu B.**, Guo C., Tang H. Mixed Data Clustering Based on Multi-objective Multivariate Learning Optimization Algorithm for Bacterial Foraging. _Chinese Journal of Management Science_. 2023. (in Chinese)
-3. **Niu B.**, Zhang C.R., Yu J., Zhou T.W. Aircraft Dynamic Berth Problem Based on a Novel Bacterial Foraging Optimization Algorithm. _Journal of Systems Engineering_. 2023. (in Chinese)
+2. **Niu B.**, Guo C., Tang H. Mixed Data Clustering Method Based on Multi-objective Multivariate Learning Bacterial Foraging Optimization Algorithm. _Chinese Journal of Management Science_. 2023. (in Chinese)
+3. **Niu B.**, Zhang C.R., Yu J., Zhou T.W. Aircraft Dynamic Berth Problem Based on a New Bacterial Foraging Optimization Algorithm. _Journal of Systems Engineering_. 2023. (in Chinese)
 4. Yi, W., Qu, R., Jiao, L., & **Niu B.** (2022). Automated Design of Metaheuristics Using Reinforcement Learning within a Novel General Search Framework. _IEEE Transactions on Evolutionary Computation_. 2022, doi: 10.1109/TEVC.2022.3197298. (SCI JCR Q1, IF=16.497)
 5. Xiao Q., **Niu B.**, Xue B., Hu L.K. Graph Convolutional Reinforcement Learning for Advanced Energy-Aware Process Planning. _IEEE Transactions on Systems, Man, and Cybernetics: Systems_. 2022 10.1109/TSMC.2022.3219407SMCA-22-05-1173. (SCI JCR Q1, IF=11.471)
 6. Huang P.Y., **Niu B.**, Pan S. L. Platform-Based Customer Agility: An Integrated Framework of Information Management Structure, Capability, and Culture. _International Journal of Information Management_. August 2021 (59): 102346. (SSCI JCR Q1, IF=18.958)
