@@ -13,6 +13,7 @@ redirect_from:
 
 | Period | Title | Status | Role | Code |
 | ------ | ----- | ---- | ---- | ---- |
+| 2024.01-2028.12 | Medical Insurance Resource Allocation Optimization Mode and Health Police Research Empowered by Digital Intelligence | Ongoing | PI | 72334004 |
 | 2020.01-2023.12 | Study on Evolutionary Bacterial Colony Optimization Oriented by Outsourcing Mode Aircraft Base Maintenance Scheduling | Ongoing | PI | 71971143 |
 | 2016.01-2019.12 | The Joint Decision-Making of Terminal Layout Design, Berth Allocation & Quay Crane Assignment Based on Complex Adaptive Bacterial Colony Optimization | Completed (Excellence) | PI | 71571120 |
 | 2015.01-2018.12 | High-dimensional Multi-objective Algorithm Based on Biological Networks and its Application on Distributed Scheduling | Completed | Co-PI | 71471158 |
