@@ -24,6 +24,8 @@ redirect_from:
   * 2021.09-Present: Associate Director
 * _**Institution of Hospital Management**_
   * 2021.04-Present: Associate Dean
+  * 2021.04-Present: Associate Dean
+  * 2021.04-Present: Associate Dean
 
 ## Fellows and Visiting Scholars
 * _**University of Macau (Macau, China)**_
